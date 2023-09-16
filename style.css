@@ -38,7 +38,7 @@ button:hover {
 }
 
 main {
-  margin-top: 20rem;
+  /* margin-top: 20rem; */
   text-align: center;
   background: #FFFFFF;
   width: min(42.8rem, 90%);
